@@ -70,6 +70,8 @@ Some standard GM moves:
 - Make location/position less safe
 - Miss something important
 - Add new environmental hazard
+- Tell them the consequences of a move and ask
+- Reveal a fundamental scarcity
 - They're confused, dazed, deaf, blinded, etc.
 
 All of these make sense, but the players' world is rapidly turning to shit.
