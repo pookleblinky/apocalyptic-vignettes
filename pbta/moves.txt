@@ -1,6 +1,6 @@
 Ok, so in PBTA players can trigger moves.
 
-Some possible moves:
+Some possible basic moves:
 
 - risk detection
 - melee
@@ -11,6 +11,13 @@ Some possible moves:
 -
 -
 -
+
+In addition, each player can make up three moves that they can do specifically,
+based on their stats. If someone's got a high Genre Savviness stat, they could
+make such as Stealth: when doing something related to stealth, add +1 using
+Genre Savviness. Maybe one's watched a lot of youtube videos and has a high
+McGuyver, their special moves may include Duct Tape Wizardry and Electrical
+Safety, or such.
 
 Player: ok, so I need to get to the kitchen without letting it notice me from
 the living room. That's a risk detection, and... *rolls* I got a 7. I think they

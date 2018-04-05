@@ -42,3 +42,5 @@ Genre Savviness
 
 Which is good enough. Should be easy to explain how these stats interact and
 contribute to things.
+
+And the Relationships stat.
