@@ -8,20 +8,37 @@ I'm inclined to have minimal stats, all of which are as intuitive as possible to
 map to one's own self-knowledge. A player who deadlifts should be pretty
 confident saying they've got a strength of "around N"
 
-Stats are in categories:
+Canonical stats: 
+- Reflexive/graceful: Cool
+- Persuasive/assertive:  Hot
+- Aggressive/forceful: Hard
+- Calculating/methodical: Sharp
+- Inquisitive/exploratory: Weird
 
-combat 
-social
-mental
-survival
-genre savviness
+
+I'd say Weird should be Genre Savviness, so
+
 Cool
+Hot
+Hard
+Sharp
+Genre Savviness
 
-Survival: encompasses everything from whether they've watched a lot of youtube
-videos about lifehacks, to experience with fixing stuff or taking first aid
-courses, etc.
+I don't like "Sharp", so Mcguyver
 
-Genre savviness: they know about zombies, obviously. They know how much they
-know about zombies. 
+Cool 
+Hot 
+Hard
+McGuyver
+Genre Savviness
 
-Cool: catchall
+I don't like "hard," so Reckless
+
+Cool
+Hot
+Reckless
+McGuyver
+Genre Savviness
+
+Which is good enough. Should be easy to explain how these stats interact and
+contribute to things.
