@@ -1,0 +1,17 @@
+The thing I'm going for is the chaos of the first few minutes and hours of the
+zombie apocalypse. No overarching narrative, no time to plan or even process
+much. The narrative has to relentlessly drive the player to survive the next few
+minutes, as things turn to shit by the second.
+
+In the beginning, it may be possible to drive miles before having to roll
+anything. Before long, just crossing an open window's gonna require a risk
+Detection roll. The world will rapidly become much more dangerous.
+
+Another big thing is realism. There should be as little need for the player to
+extrapolate from themselves as possible. If they can't pick locks, their
+character can't. If they can't sew, their character can't. Stats have to make
+sense in the context of actual humans. The player knows how strong they are, but
+I guarantee they can't put a number on it. They shouldn't have to try to
+correlate their knowledge of how much they can carry with an arbitrary and
+abstract number. When in doubt, make it easy for the player to play as
+themselves. 

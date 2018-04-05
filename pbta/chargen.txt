@@ -1,0 +1,27 @@
+When in doubt, it should be easy for the player to play themselves.
+
+The player should not have to expend much effort trying to fit their knowledge
+of themselves into arbitrary numbers. They know how strong or quick they are,
+even if no glowing number is on their forehead describing that.
+
+I'm inclined to have minimal stats, all of which are as intuitive as possible to
+map to one's own self-knowledge. A player who deadlifts should be pretty
+confident saying they've got a strength of "around N"
+
+Stats are in categories:
+
+combat 
+social
+mental
+survival
+genre savviness
+Cool
+
+Survival: encompasses everything from whether they've watched a lot of youtube
+videos about lifehacks, to experience with fixing stuff or taking first aid
+courses, etc.
+
+Genre savviness: they know about zombies, obviously. They know how much they
+know about zombies. 
+
+Cool: catchall

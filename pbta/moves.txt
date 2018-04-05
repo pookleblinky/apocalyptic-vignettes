@@ -1,0 +1,80 @@
+Ok, so in PBTA players can trigger moves.
+
+Some possible moves:
+
+- risk detection
+- melee
+- stunt drive
+- mcguyver
+- persuade
+- intimidate
+-
+-
+-
+
+Player: ok, so I need to get to the kitchen without letting it notice me from
+the living room. That's a risk detection, and... *rolls* I got a 7. I think they
+can hear better than they see, especially in this light, so I'll slowly but
+silently cross the door.
+
+
+Player: I use the duct tape to tape a knife to the end of the baseball bat.
+
+GM: That's not only mcguyvering, roll plus blah
+
+---
+
+Conditional successes
+
+risk Detection: hide from one enemy but be noticeable to another, reduce one way
+of being detected but increase another, etc
+
+melee: choose between attack or take damage, choose which attack to be exposed
+to
+
+Stunt drive: Choose which obstacle to avoid, choose between taking damage to the
+vehicle or going more cautiously but slower
+
+Mcguyver: choose which material to waste
+
+etc.
+
+---
+
+Player: so I barrel the car over the curb to avoid the wreckage
+
+GM: That's stunt driving, roll 2d6 + blah
+
+Player: 8
+
+GM: you can get past the wreck but you're gonna have to scrape up against the
+parked van or try to squeeze past the side of the house. What do you do?
+
+---
+
+The GM's agenda, other than the core PBtA agenda, is to make things both
+chaotic, and *increasingly fucked*. 
+
+Some standard GM moves:
+
+- Reveal new danger
+- Increase danger
+- Cause unintended effect
+- Threaten ally instead
+- Make them sacrifice something
+- Make them choose two options
+- Damage something they own
+- Embarass them with a mishap
+- Have a new enemy target them
+- Have them stumble, drop something
+- Make location/position less safe
+- Miss something important
+- Add new environmental hazard
+- They're confused, dazed, deaf, blinded, etc.
+
+All of these make sense, but the players' world is rapidly turning to shit.
+Sooner or later, almost everything they do will risk being detected, everywhere
+they look will reveal a threat. They could roll more often, or there could be
+custom rules, or such, but the GM has to *continually make things more
+dangerous*.
+
