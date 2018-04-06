@@ -27,25 +27,18 @@ a d100 would work even more nicely to present tiny things.
 
 ---
 
-Let's start out with a d20.
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
+Let's start small. A d4, just 4 general categories of things that are going on. 
 
+1. Reports of violence. Livestreams of fights, viral tweet about cops showing
+up, etc.
+
+2. Reports of destruction. Traffic jams, fires, etc
+
+3. Reports of strangeness. News that is not necessarily violent or destructive,
+but just weird. A facebook message talking about the gas station being closed, a
+tweet joking about seeing a naked guy running, etc.
+
+4. Reports from acquaintances. Text messages, facebook messages, tweets, etc
+from people the character knows, generally containing aspects of the above 3
+categories but not necessarily. A text message asking about dinner, a tweet
+asking about what they just saw is going on near you, etc.
