@@ -1,0 +1,26 @@
+I was trying to figure out how to add a clock mechanic to allow for the world
+around the characters to gradually turn to shit.
+
+I settled on the idea of a lookup table for news.
+
+Realistically in a disaster, you'd be checking your phone constantly, looking at
+the news on any passing tv, etc.
+
+Characters can check their phones. GM could say, "why don't you check twitter?"
+
+Player rolls a d20, and GM confers with a lookup table to tell them what they're
+seeing.
+
+Maybe it rolls a 16, the GM tells them about seeing tweets with livestreams of a
+riot going on near the hospital.
+
+Later on they roll a 16 again, they're seeing the riot's spread.
+
+Maybe they roll a 7, and see that the bridge is blocked with traffic. A fire has
+broken out downtown. Etc.
+
+Glimpses of shit going down, basically. No firmly defined PBtA Danger, but a
+whole bunch of bits and pieces of things that are falling apart in the world
+around them.
+
+a d100 would work even more nicely to present tiny things.
