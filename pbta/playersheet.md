@@ -28,7 +28,13 @@ watch a youtube video about it.
 
 This is not D&D, you don't get to just say "I roll strength" or such. You don't
 have to worry about what move is being triggered, that's the GM's job. You just
-have to describe what your character is doing.
+have to describe what your character is doing. 
+
+Moves aren't triggered by everything. You don't have to roll dice to check your
+pockets or such. They're triggered when you can *fail interestingly*. Many
+things you do, you'll succeed at automatically as expected and there's no reason
+to roll. Sometimes, circumstances mean that success isn't guaranteed. That is
+when a move will be triggered.
 
 Here are some moves everyone can do:
 
@@ -39,6 +45,16 @@ Here are some moves everyone can do:
 - Persuade, Cool
 - Intimidate, Hot
 - Read a person, Cool
+
+In D&D, there's a tendency for players to become murderhobos, just killing
+everything they see. D&D gives you a reward for doing so: you get to roll dice
+and loot and such. PBtA removes that reward: you don't roll dice to decide if
+your attempt to backstab an innocent old woman succeeds or not. You're a burly
+barbarian with a sword, she's a peasant and someone's grandma. Of course you
+succeed, you monster. PBtA deprives the would-be murderhobo of the reward of
+rolling dice, that dopamine kick from a successful gamble. Your barbarian just
+does a murder and steals the withered potato she was bringing home for her
+starving grandchild. You monster.
 
 # Harm Clock
 
