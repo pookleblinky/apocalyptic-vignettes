@@ -26,6 +26,18 @@ When in doubt, remember that you are playing yourself. If you claim you can pick
 locks, you're gonna have to convince everyone else that you've done more than
 watch a youtube video about it.
 
+This is not D&D, you don't get to just say "I roll strength" or such. You don't
+have to worry about what move is being triggered, that's the GM's job. You just
+have to describe what your character is doing.
+
+Here are some moves everyone can do:
+
+- risk Detection, Genre Savviness
+- melee, Reckless
+- Observe stuff, Cool
+- Do something through stress, Hot
+- 
+
 # Harm Clock
 
 Odds are, you don't know your pulse right now, or what your VO2 stat is. Odds
