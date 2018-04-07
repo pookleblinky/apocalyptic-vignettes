@@ -7,7 +7,7 @@ things interesting, but the players are the ones who build the story.
 
 # Stats
 
-You have 4 stats, which can range from -1 to +2. These stats are added onto a
+You have 5 stats, which can range from -1 to +2. These stats are added onto a
 2d6 roll as modifiers. Don't overthink these. 
 
 - Cool
