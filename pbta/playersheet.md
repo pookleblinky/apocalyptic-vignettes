@@ -34,7 +34,7 @@ Here are some moves everyone can do:
 
 - Defy Danger, relevant stat. 
 - Melee, Reckless
-- Observe stuff, Cool
+- Examine stuff thoroughly, Cool
 - Do something through stress, Hot
 - Persuade, Cool
 - Intimidate, Hot
