@@ -7,12 +7,37 @@ things interesting, but the players are the ones who build the story.
 
 # Stats
 
-Cool
-Hot
-Reckless
-McGuyver
-Genre Savviness
+You have 4 stats, which can range from -1 to +2. These stats are added onto a
+2d6 roll as modifiers. Don't overthink these. 
+
+- Cool
+- Hot
+- Reckless
+- McGuyver
+- Genre Savviness
 
 # Moves
 
+Everyone can do something, but you have a particular set of skills. Pick
+three, corresponding to one of your stats. Do you watch a lot of youtube videos
+about lifehacks and such? Go ahead and make a move that uses your McGuyver stat.
+
+When in doubt, remember that you are playing yourself. If you claim you can pick
+locks, you're gonna have to convince everyone else that you've done more than
+watch a youtube video about it.
+
 # Harm Clock
+
+Odds are, you don't know your pulse right now, or what your VO2 stat is. Odds
+are, you have no idea how to tell you've broken a rib or punctured a spleen. So,
+it's not realistic to have a solid number of hitpoints.
+
+Instead, you get an abstraction, a harm clock. Every time you're hurt, the clock
+fills up a little, and every time you heal it backs down a bit. Think of it this
+way: in real life, a toothache can kill you. A cat bite can paralyze your arm.
+Falling off a bike can rupture your kidney. You generally don't know exactly how
+fucked up you are, but you can usually tell that you're more fucked up than
+you were a few minutes earlier.
+
+You're playing yourself, and you are *extremely* squishy in real life. Try not
+to get hurt.
