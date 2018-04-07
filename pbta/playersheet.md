@@ -32,11 +32,13 @@ have to describe what your character is doing.
 
 Here are some moves everyone can do:
 
-- risk Detection, Genre Savviness
-- melee, Reckless
+- Defy Danger, relevant stat. 
+- Melee, Reckless
 - Observe stuff, Cool
 - Do something through stress, Hot
-- 
+- Persuade, Cool
+- Intimidate, Hot
+- Read a person, Cool
 
 # Harm Clock
 
