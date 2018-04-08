@@ -34,17 +34,23 @@ Moves aren't triggered by everything. You don't have to roll dice to check your
 pockets or such. They're triggered when you can *fail interestingly*. Many
 things you do, you'll succeed at automatically as expected and there's no reason
 to roll. Sometimes, circumstances mean that success isn't guaranteed. That is
-when a move will be triggered.
+when a move will be triggered. 
 
 Here are some moves everyone can do:
 
-- Defy Danger, relevant stat. 
+- Defy Danger, relevant stat
 - Melee, Reckless
 - Examine stuff thoroughly, Cool
+- Make/fix something, McGuyver
 - Do something through stress, Hot
 - Persuade, Cool
 - Intimidate, Hot
 - Read a person, Cool
+
+Don't know what your special moves could be? Defy Danger and Do Something
+Through Stress are kind of catch-all moves, there for when there's not a
+specific move to make. Make a specific move that you can roll instead of these.
+Maybe you're good at meditating, or have a weirdly good sense of timing.
 
 In D&D, there's a tendency for players to become murderhobos, just killing
 everything they see. D&D gives you a reward for doing so: you get to roll dice
