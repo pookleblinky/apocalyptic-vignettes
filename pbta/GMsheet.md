@@ -78,3 +78,7 @@ Principles, these snippets should give evocative glimpses of a world falling
 apart, and *not* give the players the sense that there is much if anything they
 can do about it. What is a player supposed to do with a livestream of a police
 car crashing into a crowd of people? Play to find out.
+
+# Helpful links
+
+https://willowrants.wordpress.com/2012/12/20/the-genius-of-apocalypse-world-part-iii/
