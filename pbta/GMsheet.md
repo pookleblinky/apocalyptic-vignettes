@@ -26,7 +26,7 @@ trigger through their actions.
 
 # Principles (right from the quickstart guide):
 
-- Sprinkle evocative details everywhere.
+- Barf forth apocalyptica.
 - Make the world seem real.
 - Build a bigger world through play.
 - Create interesting dilemmas, not interesting plots.
