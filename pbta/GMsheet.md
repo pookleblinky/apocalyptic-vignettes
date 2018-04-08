@@ -81,4 +81,5 @@ car crashing into a crowd of people? Play to find out.
 
 # Helpful links
 
-https://willowrants.wordpress.com/2012/12/20/the-genius-of-apocalypse-world-part-iii/
+- https://willowrants.wordpress.com/2012/12/20/the-genius-of-apocalypse-world-part-iii/
+- http://www.magpiegames.com/2016/03/17/picking-the-right-gm-move-in-pbta-part-one/
