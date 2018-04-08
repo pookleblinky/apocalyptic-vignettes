@@ -85,3 +85,4 @@ car crashing into a crowd of people? Play to find out.
 - http://www.magpiegames.com/2016/03/17/picking-the-right-gm-move-in-pbta-part-one/
 - http://apocalypse-world.com/forums/index.php?topic=2223.0 Help with AW GM
   Moves
+- https://gnomestew.com/game-mastering/gming-advice/the-book-of-vincent-gming-apocalypse-world/
