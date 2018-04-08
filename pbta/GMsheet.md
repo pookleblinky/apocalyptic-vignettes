@@ -19,6 +19,7 @@ trigger through their actions.
 
 # Agenda:
 
+- Make the Apocalypse feel real.
 - Make the character's lives interesting.
 - Play to find out what happens.
 - Make things more chaotic and dangerous over time.
