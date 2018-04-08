@@ -39,7 +39,7 @@ when a move will be triggered.
 Here are some moves everyone can do:
 
 - Defy Danger, relevant stat
-- Melee, Reckless
+- Fight, Reckless
 - Examine stuff thoroughly, Cool
 - Make/fix something, McGuyver
 - Do something through stress, Hot
