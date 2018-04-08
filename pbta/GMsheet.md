@@ -1,9 +1,9 @@
 # General system
 
 Read the Dungeon World Guide and the Simple World guide to get an idea of the
-basic system being used. Powered by the Apocalypse is an extremely flexible
-system, rather light in crunchiness, and encodes good GM habits right into its
-rules. Most of this should make sense to some degree. 
+basic system being used, and the links at the bottom. Powered by the Apocalypse
+is an extremely flexible system, rather light in crunchiness, and encodes good
+GM habits right into its rules. Most of this should make sense to some degree. 
 
 You, as the GM, have an agenda, a set of principles that determine your actions
 (not a pre-made narrative), and a limited number of moves that the players
