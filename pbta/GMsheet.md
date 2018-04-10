@@ -81,9 +81,9 @@ car crashing into a crowd of people? Play to find out.
 
 # Helpful links
 
-- https://willowrants.wordpress.com/2012/12/20/the-genius-of-apocalypse-world-part-iii/
+- http://apocalypse-world.com/forums/index.php?topic=2223.0 AW GM Moves
+- http://theangrygm.com/five-simple-rules-for-dating-my-teenaged-skill-system/
 - http://www.magpiegames.com/2016/03/17/picking-the-right-gm-move-in-pbta-part-one/
-- http://apocalypse-world.com/forums/index.php?topic=2223.0 Help with AW GM
-  Moves
 - https://gnomestew.com/game-mastering/gming-advice/the-book-of-vincent-gming-apocalypse-world/
+- https://willowrants.wordpress.com/2012/12/20/the-genius-of-apocalypse-world-part-iii/
 - https://www.latorra.org/2012/05/15/a-16-hp-dragon/
