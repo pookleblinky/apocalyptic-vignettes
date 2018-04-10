@@ -86,3 +86,4 @@ car crashing into a crowd of people? Play to find out.
 - http://apocalypse-world.com/forums/index.php?topic=2223.0 Help with AW GM
   Moves
 - https://gnomestew.com/game-mastering/gming-advice/the-book-of-vincent-gming-apocalypse-world/
+- https://www.latorra.org/2012/05/15/a-16-hp-dragon/
