@@ -9,7 +9,8 @@ have on them.
 
 # Out shopping
 
-The game takes place in a supermarket or store the primary player goes to.
+The game takes place in a supermarket or store the primary player goes to, maybe
+a coffeeshop or such.
 
 # Commuting
 
