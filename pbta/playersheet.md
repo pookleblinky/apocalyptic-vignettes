@@ -46,11 +46,15 @@ Here are some moves everyone can do:
 - Persuade, Cool
 - Intimidate, Hot
 - Read a person, Cool
+- Convince a person of the nature of the threat, Genre Savviness
 
 Don't know what your special moves could be? Defy Danger and Do Something
 Through Stress are kind of catch-all moves, there for when there's not a
 specific move to make. Make a specific move that you can roll instead of these.
-Maybe you're good at meditating, or have a weirdly good sense of timing.
+Maybe you're good at meditating, or have a weirdly good sense of timing. Maybe
+you're very genre savvy, and have a specific idea of how you'd convince someone
+that their idea will get them killed (and as with Convince, if you fail they may
+attempt to convince *you* with predictably gory results).
 
 In D&D, there's a tendency for players to become murderhobos, just killing
 everything they see. D&D gives you a reward for doing so: you get to roll dice
