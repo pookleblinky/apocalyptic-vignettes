@@ -34,7 +34,7 @@ trigger through their actions.
 - Make your move, but misdirect.
 - Make your move, but never speak its name.
 - Look at your NPCs and ideas through crosshairs.
-- Name everyone, make everyone human.
+- Name everyone, make everyone human. Even the zombies.
 - Ask provocative questions and build on the answers.
 - Respond with challenging circumstances and occasional rewards.
 - Be a fan of the players’ characters.
