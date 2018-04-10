@@ -1,7 +1,9 @@
 The world is the primary player character's location. The characters are the
 players themselves. The bulk of choice about worldbuilding is therefore in the
 choice of zombies used. Here's a few good ones. Since the game starts at hour
-zero, some of the finer points of these various types won't really show up.
+zero, some of the finer points of these various types won't really show up. For
+instance, Joe McKinney's zombies eventually become pack predators able to hunt
+prey strategically, but only after several months.
 
 # Newsflesh zombies
 
