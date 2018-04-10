@@ -1,0 +1,42 @@
+# Moves
+
+Everyone can do something, but you have a particular set of skills. Pick
+three, corresponding to one of your stats. Do you watch a lot of youtube videos
+about lifehacks and such? Go ahead and make a move that uses your McGuyver stat.
+
+When in doubt, remember that you are playing yourself. If you claim you can pick
+locks, you're gonna have to convince everyone else that you've done more than
+watch a youtube video about it.
+
+This is not D&D, you don't get to just say "I roll strength" or such. You don't
+have to worry about what move is being triggered, that's the GM's job. You just
+have to describe what your character is doing. 
+
+Moves aren't triggered by everything. You don't have to roll dice to check your
+pockets or such. They're triggered when you can *fail interestingly*. Many
+things you do, you'll succeed at automatically as expected and there's no reason
+to roll. Sometimes, circumstances mean that success isn't guaranteed. That is
+when a move will be triggered. 
+
+Here are some moves everyone can do:
+
+- Defy Danger, relevant stat
+- Fight, Reckless
+- Examine stuff thoroughly, Cool
+- Make/fix something, McGuyver
+- Do something through stress, Hot
+- Persuade, Cool
+- Intimidate, Hot
+- Read a person, Cool
+
+Possible others:
+
+- Negotiate, Cool
+
+Hm. What move would use Genre Savviness? I think it'd work well with custom
+moves.
+
+- Convince people of the threat they face, Genre Savviness. Roll to see how well
+  you can convince others that you are actually facing zombies. A 6- can mean
+  not only do you fail to convince them, but they try to convince *you* that
+  zombies don't exist. Their proof will probably end in gore.
