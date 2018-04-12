@@ -79,6 +79,11 @@ apart, and *not* give the players the sense that there is much if anything they
 can do about it. What is a player supposed to do with a livestream of a police
 car crashing into a crowd of people? Play to find out.
 
+PBtA has a clock mechanism, but in this game there is no easily defined danger
+to trigger: everything, everywhere, is getting chaotic and more dangerous. It
+can be added in if wanted: say, a timer til the local hospital is overrun or
+such.
+
 # Helpful links
 
 - http://apocalypse-world.com/forums/index.php?topic=2223.0 AW GM Moves
