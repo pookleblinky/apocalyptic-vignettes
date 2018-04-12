@@ -36,6 +36,10 @@ things you do, you'll succeed at automatically as expected and there's no reason
 to roll. Sometimes, circumstances mean that success isn't guaranteed. That is
 when a move will be triggered. 
 
+Every move triggers a roll of 2d6 plus appropriate modifier. 10+, you succeed.
+7-9, you partially succeed but take some consequence. 6-, you fail and the GM
+can make a hard move.
+
 Here are some moves everyone can do:
 
 - Defy Danger, relevant stat
