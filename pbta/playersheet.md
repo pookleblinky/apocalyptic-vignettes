@@ -51,6 +51,8 @@ Here are some moves everyone can do:
 - Intimidate, Hot
 - Read a person, Cool
 
+TODO: cooler names for these moves
+
 Don't know what your special moves could be? Defy Danger and Do Something
 Through Stress are kind of catch-all moves, there for when there's not a
 specific move to make. Make a specific move that you can roll instead of these.
