@@ -47,3 +47,9 @@ and playing in the GM sheet. I removed some components that seem awkward when
 used in a game where a player plays themselves, such as the relationship
 mechanic. I changed the Fronts and Threats mechanic to be more chaotic and less
 narrative driven.
+
+# License
+
+This work is licensed under a [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-nc-sa/4.0) 
