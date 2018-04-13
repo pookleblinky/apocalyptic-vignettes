@@ -9,8 +9,9 @@ plot armour cinematically slide over the hood to escape the baddie. And you've
 got a few seconds to get your kid out of the child seat before the baddie stops
 chasing the protagonist and starts trying to crawl through the window.
 
-Powered by the Apocalypse, with a news mechanic for glimpsing bits and pieces of
-things falling apart elsewhere.
+Powered by the Apocalypse, the game engine created by Meg and Vincent Baker for
+their game Apocalypse World, but with a news mechanic for glimpsing bits and
+pieces of things falling apart elsewhere and the relationship mechanic removed.
 
 There is no end game, no narrative arc. You are not the protagonist. This is a
 vignette of you, on the worst day of 7 billion people's lives.
