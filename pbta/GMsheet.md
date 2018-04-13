@@ -31,13 +31,14 @@ trigger through their actions.
 - Build a bigger world through play.
 - Create interesting dilemmas, not interesting plots.
 - Address yourself to the characters, not the players.
+- Start and end your moves with the fiction.
 - Make your move, but misdirect.
 - Make your move, but never speak its name.
 - Look at your NPCs and ideas through crosshairs.
 - Name everyone, make everyone human. Even the zombies.
 - Ask provocative questions and build on the answers.
 - Respond with challenging circumstances and occasional rewards.
-- Be a fan of the players’ characters.
+- Be a fan of the players’ characters. They'll need one.
 - Think offscreen, too.
 - Sometimes, reflect a question back upon the players.
 - Make the players' characters feel overwhelmed and confused
