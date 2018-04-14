@@ -26,7 +26,7 @@ action).
 Joe McKinney's Dead City series zombies. Shamblers, spreading infection via
 bites. The infected bite kills within an hour. Highly sensitive to noise. 
 
-A bite quickly turns infected, rapidly causing gangrene and fever and pulminary
+A bite quickly turns infected, rapidly causing gangrene and fever and pulmonary
 edema. Very soon the infected person is no longer mobile and shows significant
 cognitive disability. 
 
