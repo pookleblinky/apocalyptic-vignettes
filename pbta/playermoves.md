@@ -21,7 +21,7 @@ All PC's have some basic moves they can do.
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
-- Intimidate, Hot. When you intimidate another person.
+- Freak em out, Hot. When you intimidate another person.
 - Read a person, Cool. When you try to assess another person.
 
 Certain items in possession can add modifiers to these rolls. If you have a
