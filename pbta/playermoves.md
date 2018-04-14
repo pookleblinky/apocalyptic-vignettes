@@ -21,6 +21,12 @@ All PC's have some basic moves they can do.
     - 6-: GM makes a move
 
 - Go Medieval on it, Reckless. When you do a violence against an enemy.
+
+   On result:
+     - 10+: You deal damage, avoid attack
+     - 7-9: You deal damage, but are exposed to attack
+     - 6-: GM makes a move
+     
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
 - Hack it, McGuyver. When you try to repair or build something.
