@@ -17,6 +17,7 @@ All PC's have some basic moves they can do.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
 - Hack it, McGuyver. When you try to repair or build something.
+- Heal it, Cool. When you try to fix a wound.
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
