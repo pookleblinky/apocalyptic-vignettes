@@ -72,7 +72,7 @@ categories of news they'll get.
 1. Reports of violence.
 2. Reports of destruction.
 3. Strange news.
-4. Messsages from family and friends.
+4. Messages from family and friends.
 
 Larger dice can be used to give more granularity. In keeping with the Agenda and
 Principles, these snippets should give evocative glimpses of a world falling
