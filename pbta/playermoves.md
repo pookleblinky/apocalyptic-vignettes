@@ -4,7 +4,7 @@ To do it, do it. When what you're doing triggers a move, you'll be asked to
 roll 2d6 plus a modifier.
 
 10+: success
-7-9: success at a cost
+7-9: success at a cost ("here's three options. Pick two.")
 6-: failure, and the GM pulls a Hard Move.
 
 # Basic moves
