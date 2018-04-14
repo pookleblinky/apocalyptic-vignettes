@@ -15,9 +15,9 @@ just means the GM makes what'll probably be a Hard Move. You'll get a hang of
 this pretty quickly.
 
 
-10+: success
-7-9: success at a cost ("here's three options. Pick two.")
-6-: failure, and the GM pulls a Move.
+- 10+: success
+- 7-9: success at a cost ("here's three options. Pick two.")
+- 6-: failure, and the GM pulls a Move.
 
 # Basic moves
 
