@@ -66,6 +66,12 @@ All PC's have some basic moves they can do.
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
+
+   On result:
+      - 10+: You convince them
+      - 7-9: You partially convince them, or they get part of it wrong
+      - 6-: You fail to convince them, and GM can fuck with you
+
 - Freak em out, Hot. When you intimidate another person.
 
    On result:
