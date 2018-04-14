@@ -69,6 +69,17 @@ All PC's have some basic moves they can do.
 - Freak em out, Hot. When you intimidate another person.
 - Figure em out, Cool. When you try to assess another person.
 
+   On result:
+     - 10+: Ask 3
+     - 7-9: Ask 1
+     - 6-: GM can fuck with you
+
+   Questions you can ask (+1 forward for Persuade):
+     - Are they lying?
+     - How do they seem to feel?
+     - What do they want?
+     - How can I persuade them? 
+
 Certain items in possession can add modifiers to these rolls. If you have a
 weapon, you may add +1 to an Intimidate roll, for instance. If you're trying to
 fix something, having an appropriate tool could add a +1. 
