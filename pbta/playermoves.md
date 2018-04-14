@@ -21,9 +21,11 @@ All PC's have some basic moves they can do.
     10+: all 3
     7-9: Pick 1
     6-: GM makes a move
-    -- Stop bleeding
-    -- Reduce pain
-    -- Protect against further damage
+
+    - Stop bleeding
+    - Reduce pain
+    - Protect against further damage
+
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
