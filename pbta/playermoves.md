@@ -11,7 +11,7 @@ roll 2d6 plus a modifier.
 
 All PC's have some basic moves they can do.
 
-- Defy Danger, relevant stat. When you have to ignore danger to accomplish
+- Risk It All, relevant stat. When you have to ignore danger to accomplish
   something. 
 - Fight, Reckless. When you do a violence against an enemy.
 - Examine stuff thoroughly, Cool. When searching a room, etc. This isn't just
