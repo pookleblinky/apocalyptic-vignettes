@@ -24,6 +24,12 @@ All PC's have some basic moves they can do.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
 - Hack it, McGuyver. When you try to repair or build something.
+
+    On result:
+    - 10+: You succeed
+    - 7-9: You succeed, but either waste materials or make it badly
+    - 6-: You fail, and GM makes a move
+    
 - Heal it, Cool. When you try to fix a wound.
    
    On result:
