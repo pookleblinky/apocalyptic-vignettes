@@ -13,7 +13,7 @@ All PC's have some basic moves they can do.
 
 - Risk It All, relevant stat. When you have to ignore danger to accomplish
   something. 
-- Go Medieval, Reckless. When you do a violence against an enemy.
+- Go Medieval on it, Reckless. When you do a violence against an enemy.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
 - Hack it, McGuyver. When you try to repair or build something.
