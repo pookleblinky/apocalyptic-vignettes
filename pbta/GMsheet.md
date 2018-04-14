@@ -62,9 +62,9 @@ trigger through their actions.
 
 # Dangers and Bigger Pictures
 
-Instead of defined Dangers and a Bigger Picture, characters can get information
-about the world from their phones, tv's they pass, etc. This is done via a
-lookup table. They roll a die, and you announce what they saw or heard.
+Instead of just defined Dangers and a Bigger Picture, characters can get
+information about the world from their phones, tv's they pass, etc. This is done
+via a lookup table. They roll a die, and you announce what they saw or heard.
 
 A minimal way to do this is to ask them to roll a d4 to determine which of 4
 categories of news they'll get.
@@ -84,6 +84,12 @@ PBtA has a clock mechanism, but in this game there is no easily defined danger
 to trigger: everything, everywhere, is getting chaotic and more dangerous. It
 can be added in if wanted: say, a timer til the local hospital is overrun or
 such.
+
+Some Fronts that you could use: local police response, national
+military/emergency response, etc. Unlike in the Sprawl, where you can alert
+organization threat clocks with your actions though, odds are you're going to be
+a drop in the bucket of all the chaos going on. These threat clocks will need
+some other mechanism for advancing. Maybe in-game units of time? Try it.
 
 # Helpful links
 
