@@ -22,7 +22,7 @@ All PC's have some basic moves they can do.
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
 - Freak em out, Hot. When you intimidate another person.
-- Read a person, Cool. When you try to assess another person.
+- Figure em out, Cool. When you try to assess another person.
 
 Certain items in possession can add modifiers to these rolls. If you have a
 weapon, you may add +1 to an Intimidate roll, for instance. If you're trying to
