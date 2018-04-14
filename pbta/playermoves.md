@@ -27,7 +27,7 @@ All PC's have some basic moves they can do.
    Choose between:
     - Stop bleeding
     - Reduce pain
-    - Protect against further damage
+    - Protect against further damage or infection
 
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
   someone of something, or try to convince them that your genre-savvy plan is
