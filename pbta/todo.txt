@@ -1,5 +1,3 @@
-Better names for player moves
-First aid player move
 Define player moves in more detail
 Personalize GM principles
 News mechanism: expand to d20
