@@ -17,7 +17,7 @@ this pretty quickly.
 
 10+: success
 7-9: success at a cost ("here's three options. Pick two.")
-6-: failure, and the GM pulls a Hard Move.
+6-: failure, and the GM pulls a Move.
 
 # Basic moves
 
