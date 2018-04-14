@@ -40,20 +40,7 @@ Every move triggers a roll of 2d6 plus appropriate modifier. 10+, you succeed.
 7-9, you partially succeed but take some consequence. 6-, you fail and the GM
 can make a hard move.
 
-Here are some moves everyone can do:
-
-- Defy Danger, relevant stat
-- Fight, Reckless
-- Examine stuff thoroughly, Cool
-- Make/fix something, McGuyver
-- Do something through stress, Hot
-- Persuade, Cool (or Genre Savviness where appropriate)
-- Intimidate, Hot
-- Read a person, Cool
-
-Check playermoves.md for more information on each move.
-
-TODO: cooler names for these moves
+There are some moves everyone can do, check playermoves.md for details.
 
 Don't know what your special moves could be? Defy Danger and Do Something
 Through Stress are kind of catch-all moves, there for when there's not a
