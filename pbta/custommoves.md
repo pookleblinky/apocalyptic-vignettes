@@ -28,3 +28,5 @@ the zombies showed up. Roll+Cool.
 - Oddly high in one stat? Make a move that lets you use that stat in place of
   the stat used in a normal basic move: maybe you can roll +Cool instead of
   Reckless on Go Medieval on it due you your Wing Chun classes.
+
+- You carry your multitool everywhere. +1 on McGuyver.
