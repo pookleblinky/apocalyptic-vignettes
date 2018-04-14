@@ -24,3 +24,7 @@ the zombies showed up. Roll+Cool.
 
 - Bub Lover. You've got every Romero film memorized, and strong opinions about
   fast moving zombies. Roll+Genre-Savviness.
+
+- Oddly high in one stat? Make a move that lets you use that stat in place of
+  the stat used in a normal basic move: maybe you can roll +Cool instead of
+  Reckless on Go Medieval on it due you your Wing Chun classes.
