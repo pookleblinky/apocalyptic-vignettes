@@ -1,11 +1,7 @@
 Personalize GM principles
 News mechanism: expand to d20
 Create Racket lookup function
-Premade custom player moves
 Expand scenarios
-Expand on the zombie types
 Create BLIT module
-Add Playtesters.txt contrib shoutout
 Consider adding some form of clock based on PPC's local hospital distance
 Pretty up character sheet
-Item tags
