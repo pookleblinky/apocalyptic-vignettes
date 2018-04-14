@@ -18,9 +18,10 @@ All PC's have some basic moves they can do.
   looking, it's wandering around and such.
 - Hack it, McGuyver. When you try to repair or build something.
 - Heal it, Cool. When you try to fix a wound.
-    10+: all 3
-    7-9: Pick 1
-    6-: GM makes a move
+
+    - 10+: all 3
+    - 7-9: Pick 1
+    - 6-: GM makes a move
 
     - Stop bleeding
     - Reduce pain
