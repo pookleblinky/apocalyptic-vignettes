@@ -13,6 +13,13 @@ All PC's have some basic moves they can do.
 
 - Risk It All, relevant stat. When you have to ignore danger to accomplish
   something. 
+
+  On result:
+    - 10+: you accomplish it
+    - 7-9: You succeed, but stumble, fumble, or freeze. GM gives you a hard
+      choice or worse outcome
+    - 6-: GM makes a move
+
 - Go Medieval on it, Reckless. When you do a violence against an enemy.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
