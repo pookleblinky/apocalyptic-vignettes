@@ -16,7 +16,7 @@ All PC's have some basic moves they can do.
 - Go Medieval, Reckless. When you do a violence against an enemy.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such.
-- Make/fix something, McGuyver. When you try to repair or build something.
+- Hack it, McGuyver. When you try to repair or build something.
 - Do something through stress, Hot. Like Defy Danger, but you're specifically
   fighting the mental strain of stress.
 - Persuade, Cool (or Genre-savviness where appropriate). When you persuade
