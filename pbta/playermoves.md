@@ -67,6 +67,12 @@ All PC's have some basic moves they can do.
   someone of something, or try to convince them that your genre-savvy plan is
   safer.
 - Freak em out, Hot. When you intimidate another person.
+
+   On result:
+     - 10+: They do what you want
+     - 7-9: They do what you want, but at a cost (or partially)
+     - 6-: GM makes a move
+     
 - Figure em out, Cool. When you try to assess another person.
 
    On result:
