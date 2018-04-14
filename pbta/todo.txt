@@ -10,3 +10,4 @@ Expand on the zombie types
 Create BLIT module
 Add Playtesters.txt contrib shoutout
 Consider adding some form of clock based on PPC's local hospital distance
+Define questions asked 7-9 on assessing stuff
