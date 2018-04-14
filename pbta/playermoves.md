@@ -44,17 +44,18 @@ All PC's have some basic moves they can do.
   knowing the answers*.
   
    On result:
-      - 10+: Pick 3 questions to ask GM
-      - 7-9: Pick 1
-      - 6-: GM can fuck with you
+     - 10+: Pick 3 questions to ask GM
+     - 7-9: Pick 1
+     - 6-: GM can fuck with you
+
 
    Questions you can ask:
-      - What happened here recently?
-      - Where are the entrances and exits?
-      - What's the most dangerous threat here?
-      - What should I be wary of?
-      - Which threat should I address first?
-      - What's useful to me?
+     - What happened here recently?
+     - Where are the entrances and exits?
+     - What's the most dangerous threat here?
+     - What should I be wary of?
+     - Which threat should I address first?
+     - What's useful to me?
 
 - Hack it, McGuyver. When you try to repair or build something.
 
