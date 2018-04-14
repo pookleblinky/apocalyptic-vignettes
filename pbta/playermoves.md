@@ -1,7 +1,19 @@
 # The basics
 
 To do it, do it. When what you're doing triggers a move, you'll be asked to
-roll 2d6 plus a modifier.
+roll 2d6 plus a modifier. 
+
+Moves are triggered when there's a consequence or cost to making the wrong
+decision, when they can fail interestingly. If there's no chance of failure
+(stabbing a defenseless person) or success (persuading someone to give you all
+their clothes and then jump into a swarm of zombies as bait), the GM can tell
+you there's no need to roll for it. It'll either obviously succeed or inevitably
+fail. Rolling a 12+ means you do something possible to do, exceptionally well.
+It doesn't mean you do the impossible. At the same time, rolling a 1 (2 with a
+-1 forward) doesn't mean you accidentally get killed Final Destination style. It
+just means the GM makes what'll probably be a Hard Move. You'll get a hang of
+this pretty quickly.
+
 
 10+: success
 7-9: success at a cost ("here's three options. Pick two.")
