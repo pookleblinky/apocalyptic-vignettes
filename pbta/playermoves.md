@@ -105,6 +105,9 @@ All PC's have some basic moves they can do.
      - What do they want?
      - How can I persuade them? 
 
+- Give em a hand. When you help another player, they get a +1 to their move. (This is
+  the only relationship mechanic I think I'm comfortable adding into the game).
+
 Certain items in possession can add modifiers to these rolls. If you have a
 weapon, you may add +1 to an Intimidate roll, for instance. If you're trying to
 fix something, having an appropriate tool could add a +1. 
@@ -113,5 +116,8 @@ Certain rolls can confer a forward modifier. If you roll +10 on Defy Danger,
 your next action could get a +1 modifier added to it, for instance. Whereas if
 you fail, not only will the GM make a hard move but you could get a -1 modifier
 for whatever you were trying to do next.
+
+Some rolls could add a Hold, which is basically a point that can be spent in the
+future for a specific purpose. I don't know how to work this in yet.
 
 TODO: extend this
