@@ -42,7 +42,7 @@ All PC's have some basic moves they can do.
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such *when there's a consequence of not
   knowing the answers*.
-
+  
    On result:
       - 10+: Pick 3 questions to ask GM
       - 7-9: Pick 1
@@ -80,9 +80,9 @@ All PC's have some basic moves they can do.
   safer.
 
    On result:
-      - 10+: You convince them
-      - 7-9: You partially convince them, or they get part of it wrong
-      - 6-: You fail to convince them, and GM can fuck with you
+     - 10+: You convince them
+     - 7-9: You partially convince them, or they get part of it wrong
+     - 6-: You fail to convince them, and GM can fuck with you
 
 - Freak em out, Hot. When you intimidate another person.
 
