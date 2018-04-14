@@ -42,10 +42,10 @@ can make a hard move.
 
 There are some moves everyone can do, check playermoves.md for details.
 
-Don't know what your special moves could be? Defy Danger and Do Something
-Through Stress are kind of catch-all moves, there for when there's not a
-specific move to make. Make a specific move that you can roll instead of these.
-Maybe you're good at meditating, or have a weirdly good sense of timing.
+Don't know what your special moves could be? Risk it All is kind of a catch-all
+move, there for when there's not a specific move to make. Make a specific move
+that you can roll instead.  Maybe you're good at meditating, or have a
+weirdly good sense of timing.
 
 In D&D, there's a tendency for players to become murderhobos, just killing
 everything they see. D&D gives you a reward for doing so: you get to roll dice
