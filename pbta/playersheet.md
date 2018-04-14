@@ -51,6 +51,8 @@ Here are some moves everyone can do:
 - Intimidate, Hot
 - Read a person, Cool
 
+Check playermoves.md for more information on each move.
+
 TODO: cooler names for these moves
 
 Don't know what your special moves could be? Defy Danger and Do Something
