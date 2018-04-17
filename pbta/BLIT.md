@@ -1,6 +1,6 @@
 A module for people who don't like zombies.
 
-Read David Langford's [BLIT](https://www.infinityplus.co.uk/stories/blit.htm).
+Read David Langford's [BLIT](http://www.infinityplus.co.uk/stories/blit.htm).
 Seriously, go read it and then come back.
 
 Procedurally generated mind-destroying images, weaponized in every medium
