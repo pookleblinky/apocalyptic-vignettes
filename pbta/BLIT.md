@@ -40,10 +40,23 @@ When a BLIT is in your field of view, roll+Cool.
 - 10+: You saccade past it, or it's temporarily obscured. You don't get
   affected.
 - 7-9: You catch a partial glimpse of it. Pick one aphasia, agnosia, or delusion
-  from the list.
+  from the list. Several will apply a -1 forward modifier. Add 1 point to BLIT
+  Theory
 - 6-: You see the BLIT well enough for it to paint your cerebral cortex. The GM
   can make a move.
 
 TODO: Make a list of agnosias/aphasias
 
+# BLIT Damage
 
+Each partial glimpse of a BLIT, you acquire an aphasia or agnosia. You can have
+up to 4 before you become incapable of pretty much anything. 
+
+So, in addition to your Harm Clock, you have an AA Clock that's just divided
+into hemispheres. When it fills, your brain has been burned too badly to
+continue.
+
+You can't heal BLIT damage, it causes permanent neurological trauma. However,
+when you receive BLIT damage you get a +1 Hold on BLIT Theory. You can spend it
+by asking the GM why you only got partially affected. The answer may help you
+figure out to how avoid future exposure.
