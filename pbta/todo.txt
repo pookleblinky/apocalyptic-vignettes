@@ -5,3 +5,4 @@ Expand scenarios
 Create BLIT module
 Consider adding some form of clock based on PPC's local hospital distance
 Pretty up character sheet
+latke-volterra model of humans to zombies
