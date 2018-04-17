@@ -15,6 +15,19 @@ random aphasia or agnosia.
 
 Cool stuff.
 
+# Session 0
+
+Have everyone read the story, look up agnosias and aphasias, talk
+about BLITs and such. Hopefully someone at the table has read Peter Watts'
+Blindsight. 
+
+Come up with a story for who invented the BLITs and how they got
+out of the lab. What are they trying to accomplish? How widespread is this BLIT
+attack? Was the Google Doodle replaced with a BLIT? 
+
+No need to go into too much detail. As long as everyone's got a rough idea of
+BLITs and an idea of how they'll show up.
+
 # Setting
 
 You are going about a perfectly normal day, and decided to stop at a Starbucks
@@ -82,3 +95,22 @@ somehow not quite human anymore?
 This is not a zombie game. Sure, someone may try to tear out your throat, but in
 their defense maybe they were absolutely convinced that you were trying to kill
 them. 
+
+# Fronts
+
+There are three scales of threat:
+
+- Immediate. Wherever you are, is getting more chaotic and dangerous by the
+  second.
+
+- Local. This was not an isolated incident. It's happening all over your city.
+  Your city is getting more chaotic and dangerous by the minute.
+
+- General. Whoever did this, is almost certainly equipped to continue their
+  attack. At the same time, police and military forces are going to attempt to
+  restore order.
+
+Design your Fronts such that the player can't feel like the protagonist. Even if
+they survive the next few minutes, there's nothing they can do about the bigger
+threat coming at them in the next few hours. There should be absolutely no hint
+that the player can stop the BLIT attack, or avoid its results.
