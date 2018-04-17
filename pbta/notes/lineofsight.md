@@ -13,4 +13,15 @@ So, what's the PBtA-ish narrative-first POV mechanic? How do you trigger the
 Exposure to a BLIT move without relying on perception checks and adversarial
 dice rolls and carefully rendered mini maps?
 
+# Blades in the Dark style positioning
+
+BitD uses positioning to constrain how Hard a move the GM can make on a failed
+roll. In PBtA, the GM is free to make a move as hard as they want if the PC
+fails a roll. in BitD, the hardest move a GM can make depends on how risky the
+move was. If the player fails a roll for a Desperate move, the GM *has* to hurt
+them, but they can't do that if the situation is Guaranteed.
+
+So: certain areas are going to be more risky than others. If a PC fails a move
+in a risky area, the GM *has* to trigger the Exposure to BLIT move. 
+
 
