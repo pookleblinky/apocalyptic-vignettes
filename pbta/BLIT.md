@@ -60,3 +60,25 @@ You can't heal BLIT damage, it causes permanent neurological trauma. However,
 when you receive BLIT damage you get a +1 Hold on BLIT Theory. You can spend it
 by asking the GM why you only got partially affected. The answer may help you
 figure out to how avoid future exposure.
+
+# Line of Sight
+
+Because BLITs depend on seeing them, line of sight is extremely important to
+track. You're probably going to want to use Roll20 or similar to be able to
+track what your players can see at any time. I'm not actually sure how to best
+model POV in a way that doesn't become tedious and overly mechanical.
+
+# BLIT victims
+
+Everyone who is exposed to a BLIT either dies instantly, or acquires a cluster
+of agnosias and aphasias that makes them interesting to interact with. Not
+everyone becomes a violent sprinting Cell zombie, but maybe some do. What do you
+do with the 50 year old guy who's sobbing in terror because he can't perceive
+faces, or his granddaughter who suddenly has Cotard's Delusion and is shrieking
+in horror at her own rotting body? What do you do about the barista who is
+violently brandishing a knife at people she perceives to be somehow *off*,
+somehow not quite human anymore?
+
+This is not a zombie game. Sure, someone may try to tear out your throat, but in
+their defense maybe they were absolutely convinced that you were trying to kill
+them. 
