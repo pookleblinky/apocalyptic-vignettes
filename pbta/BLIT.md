@@ -76,10 +76,21 @@ figure out to how avoid future exposure.
 
 # Line of Sight
 
-Because BLITs depend on seeing them, line of sight is extremely important to
-track. You're probably going to want to use Roll20 or similar to be able to
-track what your players can see at any time. I'm not actually sure how to best
-model POV in a way that doesn't become tedious and overly mechanical.
+Instead of throwing perception checks at the player, I'm lifting the fictional
+positioning from John Harper's Blades in the Dark. In PBtA, the GM can throw as
+hard a move as they want at a PC who fails a roll. In BitD, the GM is
+constrained in how hard a move they can throw, depending on how risky the
+player's move is.
+
+In-fiction, certain areas will be more likely to contain BLITs than others: Low,
+Medium, and High risk. This is determined in-narrative.
+
+In High Risk areas, the GM is *required* to trigger the Exposure to BLIT move on
+a failed roll. In Medium Risk areas, they can but aren't required. And the GM
+can't make that hard a move in a Low Risk area. 
+
+Instead of simulating sight-lines or such, I'm simply telling the GM "if there's
+a lot of BLITs around, the PC's probably going to get exposed to one."
 
 # BLIT victims
 
