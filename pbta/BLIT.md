@@ -60,6 +60,10 @@ When a BLIT is in your field of view, roll+Cool.
 
 TODO: Make a list of agnosias/aphasias
 
+[Here's the wiki article on agnosias](https://en.wikipedia.org/wiki/Agnosia)
+
+[Here's the wiki article on aphasias](https://en.wikipedia.org/wiki/Aphasia)
+
 # BLIT Damage
 
 Each partial glimpse of a BLIT, you acquire an aphasia or agnosia. You can have
