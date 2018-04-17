@@ -64,6 +64,9 @@ TODO: Make a list of agnosias/aphasias
 
 [Here's the wiki article on aphasias](https://en.wikipedia.org/wiki/Aphasia)
 
+[Here's a list of psychopathological
+syndromes](https://en.wikipedia.org/wiki/Category:Psychopathological_syndromes)
+
 # BLIT Damage
 
 Each partial glimpse of a BLIT, you acquire an aphasia or agnosia. You can have
