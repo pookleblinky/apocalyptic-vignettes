@@ -41,8 +41,8 @@ trigger through their actions.
 - Be a fan of the players’ characters. They'll need one.
 - Think offscreen, too.
 - Sometimes, reflect a question back upon the players.
-- Make the players' characters feel overwhelmed and confused
-- Make the players' characters *not* feel like the protagonist
+- Make the players' characters feel overwhelmed and confused.
+- Make the players' characters *not* feel like the protagonist.
 
 # Moves (from quickstart guide):
 
