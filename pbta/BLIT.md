@@ -66,6 +66,7 @@ TODO: Make a list of agnosias/aphasias
 
 [Here's a list of psychopathological
 syndromes](https://en.wikipedia.org/wiki/Category:Psychopathological_syndromes)
+like Cotard's Delusion and delusional parasitosis.
 
 # BLIT Damage
 
