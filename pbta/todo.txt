@@ -1,8 +1,5 @@
-Personalize GM principles
 News mechanism: expand to d20
 Create Racket lookup function
-Expand scenarios
 Consider adding some form of clock based on PPC's local hospital distance
 Pretty up character sheet
 latke-volterra model of humans to zombies
-BLIT line of sight
