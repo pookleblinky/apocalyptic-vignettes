@@ -49,6 +49,12 @@ used in a game where a player plays themselves, such as the relationship
 mechanic. I changed the Fronts and Threats mechanic to be more chaotic and less
 narrative driven.
 
+# BLIT module
+
+There's also a BLIT module where instead of zombies, you are dealing with
+procedurally-generated images that shortcircuit the human visual cortex and
+cause fatal seizures and other neurological trauma.
+
 # License
 
 This work is licensed under a [Creative Commons
