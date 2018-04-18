@@ -43,6 +43,7 @@ trigger through their actions.
 - Sometimes, reflect a question back upon the players.
 - Make the players' characters feel overwhelmed and confused.
 - Make the players' characters *not* feel like the protagonist.
+- No zombie is boring. Every zombie has a backstory.
 
 # Moves (from quickstart guide):
 
