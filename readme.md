@@ -1,4 +1,4 @@
-# Apocalyptic Vignettes, a zombie apocalypse RPG.
+# Apocalyptic Vignettes, a zombie/BLIT apocalypse RPG.
 
 You play yourself, with what you have on you right this moment, just as the
 world starts to fall apart. 
