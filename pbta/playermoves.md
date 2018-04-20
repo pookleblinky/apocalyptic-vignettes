@@ -19,6 +19,24 @@ this pretty quickly.
 - 7-9: success at a cost ("here's three options. Pick two.")
 - 6-: failure, and the GM pulls a Move.
 
+# Combat considered harmful
+
+The only combat-specific move is Punching Zombies Considered Harmful, and it's
+only triggered when a zombie is trying to rip your face off. That's because it
+actually deserves a roll. Trying to snipe zombies from a roof-top? Go ahead, no
+need to roll dice for that. Well, except that you're gonna have to roll Risk it
+All for each shot, to see what the odds of the gunshots attracting a whole horde
+to you are. But the actual shooting? Go ahead until you run out of bullets if
+you want. It really doesn't matter.
+
+What about doing a punch on other humans? That's just a Risk it All roll which
+can trigger a hard GM move. Or a Freak Em Out move followed by a Risk it All
+move, either of which can end with you bleeding out. 
+
+Basically, if it's a type of violence that's worth rolling for, it's probably
+not gonna end well. Try to not get into situations where you have to punch
+zombies.
+
 # Basic moves
 
 All PC's have some basic moves they can do.
