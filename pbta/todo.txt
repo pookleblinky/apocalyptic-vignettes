@@ -1,5 +1,3 @@
-News mechanism: expand to d20
-Create Racket lookup function
 Consider adding some form of clock based on PPC's local hospital distance
 Pretty up character sheet
 latke-volterra model of humans to zombies

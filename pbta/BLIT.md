@@ -73,8 +73,8 @@ like Cotard's Delusion and delusional parasitosis.
 Each partial glimpse of a BLIT, you acquire an aphasia or agnosia. You can have
 up to 4 before you become incapable of pretty much anything. 
 
-So, in addition to your Harm Clock, you have an AA Clock that's just divided
-into hemispheres. When it fills, your brain has been burned too badly to
+So, in addition to your Harm Clock, you have an BLIT damage Clock that's just
+divided into hemispheres. When it fills, your brain has been burned too badly to
 continue.
 
 You can't heal BLIT damage, it causes permanent neurological trauma. However,
@@ -91,7 +91,9 @@ constrained in how hard a move they can throw, depending on how risky the
 player's move is.
 
 In-fiction, certain areas will be more likely to contain BLITs than others: Low,
-Medium, and High risk. This is determined in-narrative.
+Medium, and High risk. This is determined in-narrative, rather than
+mechanically. Just think about how likely the player is to encounter a BLIT in
+their location and you'll be fine.
 
 In High Risk areas, the GM is *required* to trigger the Exposure to BLIT move on
 a failed roll. In Medium Risk areas, they can but aren't required. And the GM
