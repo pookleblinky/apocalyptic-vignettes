@@ -14,3 +14,11 @@ look like people angrily hugging each other for a few seconds. Fighting will be
 fighting, and it's something the player should absolutely dread.
 
 That said, how should zombies be statted?
+
+Idea: Fictional positioning *just* for combat moves. Basically, if you get
+within punching distance of a zombie, the GM *has* to make a hard move on
+failure. Make it very clear to players that they really, really do not want to
+try punching a zombie.
+
+Or, make it a more general move so it also includes things other than punching
+zombies. Make punching zombies a bad idea, basically.

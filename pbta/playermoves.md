@@ -39,6 +39,12 @@ All PC's have some basic moves they can do.
      - 7-9: You deal damage, but are exposed to attack
      - 6-: GM makes a move
      
+   Note: I'd prefer to de-emphasize punching zombies, or somehow indicate that
+   it is a very bad idea to try to punch a zombie. Either by adding fictional
+   positioning where say at Melee Range the GM *has* to pull a very hard move on
+   failure, or by generalizing the move to all the ways one can get out of the
+   situation alive, not just ones that involve punching a zombie.
+
 - Check it Out, Cool. When searching a room, etc. This isn't just
   looking, it's wandering around and such *when there's a consequence of not
   knowing the answers*.
