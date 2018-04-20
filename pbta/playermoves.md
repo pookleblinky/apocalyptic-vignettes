@@ -32,7 +32,10 @@ All PC's have some basic moves they can do.
       choice or worse outcome
     - 6-: GM makes a move
 
-- Go Medieval on it, Reckless. When you do a violence against an enemy.
+- Punching Zombies Considered Harmful, Reckless. When a zombie's trying to eat
+  you. Maybe you just try to push the thing off you, or maybe you whack it with
+  a handy bat or something. Either way, it is trying to sink its teeth in you
+  and you're trying to avoid this.
 
    On result:
      - 10+: You deal damage, avoid attack
