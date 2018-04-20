@@ -139,7 +139,7 @@ Certain items in possession can add modifiers to these rolls. If you have a
 weapon, you may add +1 to an Intimidate roll, for instance. If you're trying to
 fix something, having an appropriate tool could add a +1. 
 
-Certain rolls can confer a forward modifier. If you roll +10 on Defy Danger,
+Certain rolls can confer a forward modifier. If you roll +10 on Risk it All,
 your next action could get a +1 modifier added to it, for instance. Whereas if
 you fail, not only will the GM make a hard move but you could get a -1 modifier
 for whatever you were trying to do next.
