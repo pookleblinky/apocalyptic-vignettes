@@ -60,26 +60,23 @@ trigger through their actions.
 - Tell them the possible consequences and ask.
 - Turn their move back on them.
 - Make a move from one of your Dangers or Bigger Pictures.
+- Tell them the News
 
-# Dangers and Bigger Pictures
+# News, Dangers, and Bigger Pictures
 
 Instead of just defined Dangers and a Bigger Picture, characters can get
-information about the world from their phones, tv's they pass, etc. This is done
-via a lookup table. They roll a die, and you announce what they saw or heard.
-
-A minimal way to do this is to ask them to roll a d4 to determine which of 4
-categories of news they'll get.
+information about the world from their phones, tv's they pass, etc.
 
 1. Reports of violence.
 2. Reports of destruction.
 3. Strange news.
 4. Messages from family and friends.
 
-Larger dice can be used to give more granularity. In keeping with the Agenda and
-Principles, these snippets should give evocative glimpses of a world falling
-apart, and *not* give the players the sense that there is much if anything they
-can do about it. What is a player supposed to do with a livestream of a police
-car crashing into a crowd of people? Play to find out.
+In keeping with the Agenda and Principles, these snippets should give evocative
+glimpses of a world falling apart, and *not* give the players the sense that
+there is much if anything they can do about it. What is a player supposed to do
+with a livestream of a police car crashing into a crowd of people? Play to find
+out.
 
 PBtA has a clock mechanism, but in this game there is no easily defined danger
 to trigger: everything, everywhere, is getting chaotic and more dangerous. It
